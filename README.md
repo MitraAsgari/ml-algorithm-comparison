@@ -23,10 +23,8 @@ This repository provides a comparative analysis of several machine learning algo
    ```bash
    python model_comparisons/visualization.py
    
-## Requirements
-Python 3.x
-Scikit-learn
-Matplotlib
+## Prerequisites
+Python 3.x Libraries: Scikit-learn, Matplotlib
 
 ## License
 MIT
