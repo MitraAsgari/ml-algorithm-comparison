@@ -20,6 +20,7 @@ def plot_results(results):
     plt.bar(models, train_times)
     plt.title('Training Time')
     
+    plt.tight_layout()
     plt.show()
 
 plot_results(results)
